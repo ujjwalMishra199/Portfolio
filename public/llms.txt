@@ -1,0 +1,24 @@
+# Ujjwal Mishra
+
+> Full Stack Developer | Backend Developer based in Gurgaon, Haryana. Builds scalable web applications and reliable backend systems with Node.js, Express.js, React, TypeScript, MongoDB and MySQL.
+
+## Experience
+- Full-Stack Developer, STUCARE Technologies Pvt. Ltd., Noida (Jul 2026 – Present): Admin and Creator portals of a Creator Referral Partner platform; live MongoDB aggregation pipelines; campaign publish/notify/apply/review workflow.
+- Backend Developer, OMSR Media Pvt. Ltd., Gurgaon (Nov 2025 – Jun 2026): Node.js services and REST APIs, Docker, AWS EC2/S3, CI/CD, JWT and OAuth.
+
+## Projects
+- Creator Referral Partner Platform (Node.js, Express.js, MongoDB, React, TypeScript)
+- ConnecWrk (Node.js, Express.js, MySQL, REST APIs): AI-powered discovery platform for freelancers, artists and small businesses
+
+## Skills
+JavaScript, TypeScript, Python, Java, C++, Node.js, Express.js, React, Tailwind CSS, MongoDB, MySQL, PostgreSQL, Prisma, AWS (EC2, S3), Docker, Kafka, GitHub
+
+## Education & Certifications
+- B.Tech CSE, GLA University (2022–2026), SPI 7.8
+- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional (Oct 2025)
+- NPTEL (IIT Kharagpur): Software Engineering (Sep 2024)
+
+## Contact
+- Email: ujjwalmishra002005@gmail.com
+- GitHub: https://github.com/ujjwalMishra199
+- LinkedIn: https://www.linkedin.com/in/ujjwal-mishra-683933300/
